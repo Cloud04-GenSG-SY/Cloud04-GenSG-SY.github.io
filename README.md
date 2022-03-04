@@ -2,8 +2,8 @@
 
 Welcome!
 
-[About](Cloud04-GenSG-SY.github.io/about)
+[About](https://Cloud04-GenSG-SY.github.io/about)
 
-[Test](Cloud04-GenSG-SY.github.io/test)
+[Test](https://Cloud04-GenSG-SY.github.io/test)
 
 

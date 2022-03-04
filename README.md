@@ -1,4 +1,6 @@
-# Welcome to Cloud04-GenSG-SY.github.io
+# Cloud04-GenSG-SY.github.io
+
+Welcome!
 
 [About](Cloud04-GenSG-SY.github.io/about)
 
